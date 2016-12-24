@@ -504,7 +504,7 @@ local telediamond6 = [[
 مثلا وقتی لینک قفل باشد درصورتی که کاربر لینک ارسال کند هم لینک و هم کاربر در صورت قفل بودن سخت گیری حذف خواهند شد.
 ]]
 local telediamond7 = [[
-̴D̴̴i̴̴a̴̴m̴̴o̴̴n̴̴d̴ ̴C̴̴o̴̴m̴̴m̴̴a̴̴n̴̴d̴̴s̴ :
+̴blaster:
 
 ✔️برای دیدن دستورات مورد نظر خود مورد دلخواه را ارسال کنید :
 
@@ -527,7 +527,7 @@ local telediamond7 = [[
 🎗》#modhelp
 
 Join us:
-✔️  @antispamandhack
+✔️  @blaster_tc
 ]]
     if matches[1] == 'راهنمای مدیریتی' and is_momod(msg) then
         return telediamond  
